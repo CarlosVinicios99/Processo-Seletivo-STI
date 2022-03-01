@@ -1,0 +1,13 @@
+/home/carlos/Documentos/teste_STI/SistemaCR/bin/Debug/netcoreapp3.1/SistemaCR
+/home/carlos/Documentos/teste_STI/SistemaCR/bin/Debug/netcoreapp3.1/SistemaCR.deps.json
+/home/carlos/Documentos/teste_STI/SistemaCR/bin/Debug/netcoreapp3.1/SistemaCR.runtimeconfig.json
+/home/carlos/Documentos/teste_STI/SistemaCR/bin/Debug/netcoreapp3.1/SistemaCR.runtimeconfig.dev.json
+/home/carlos/Documentos/teste_STI/SistemaCR/bin/Debug/netcoreapp3.1/SistemaCR.dll
+/home/carlos/Documentos/teste_STI/SistemaCR/bin/Debug/netcoreapp3.1/SistemaCR.pdb
+/home/carlos/Documentos/teste_STI/SistemaCR/obj/Debug/netcoreapp3.1/SistemaCR.csprojAssemblyReference.cache
+/home/carlos/Documentos/teste_STI/SistemaCR/obj/Debug/netcoreapp3.1/SistemaCR.AssemblyInfoInputs.cache
+/home/carlos/Documentos/teste_STI/SistemaCR/obj/Debug/netcoreapp3.1/SistemaCR.AssemblyInfo.cs
+/home/carlos/Documentos/teste_STI/SistemaCR/obj/Debug/netcoreapp3.1/SistemaCR.csproj.CoreCompileInputs.cache
+/home/carlos/Documentos/teste_STI/SistemaCR/obj/Debug/netcoreapp3.1/SistemaCR.dll
+/home/carlos/Documentos/teste_STI/SistemaCR/obj/Debug/netcoreapp3.1/SistemaCR.pdb
+/home/carlos/Documentos/teste_STI/SistemaCR/obj/Debug/netcoreapp3.1/SistemaCR.genruntimeconfig.cache
